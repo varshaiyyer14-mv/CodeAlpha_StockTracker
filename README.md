@@ -39,4 +39,4 @@ Total investment: 3050
 ```
 
 ## Author
-Your Name - Python Intern at CodeAlpha
+SHREEVARSHA - Python Intern at CodeAlpha
